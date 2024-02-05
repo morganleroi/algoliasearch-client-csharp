@@ -6,7 +6,7 @@ namespace Algolia.Search.Models.Search
   public partial class ApiKey
   {
     /// <summary>
-    /// Compare two ApiKey objects
+    /// Compare two ApiKey objectss
     /// </summary>
     /// <param name="obj"></param>
     /// <returns></returns>

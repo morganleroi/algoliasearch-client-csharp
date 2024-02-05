@@ -1,5 +1,6 @@
 ## [7.0.0-alpha.7](https://github.com/algolia/algoliasearch-client-csharp/compare/7.0.0-alpha.6...7.0.0-alpha.7)
 
+- test
 - [e4ab48621](https://github.com/algolia/api-clients-automation/commit/e4ab48621) feat(csharp): add logs and logger factory ([#2640](https://github.com/algolia/api-clients-automation/pull/2640)) by [@morganleroi](https://github.com/morganleroi/)
 - [93e2aff59](https://github.com/algolia/api-clients-automation/commit/93e2aff59) feat(csharp): add compression ([#2627](https://github.com/algolia/api-clients-automation/pull/2627)) by [@morganleroi](https://github.com/morganleroi/)
 - [9404e3dc6](https://github.com/algolia/api-clients-automation/commit/9404e3dc6) feat(csharp): add custom user-agent segment ([#2631](https://github.com/algolia/api-clients-automation/pull/2631)) by [@morganleroi](https://github.com/morganleroi/)
